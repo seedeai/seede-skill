@@ -1,5 +1,5 @@
 ---
-name: seede
+name: seede-design
 version: 1.0.0
 description: The ultimate AI design CLI for Agents and Developers. Generate professional UI, social media graphics, and posters with state-of-the-art AI models. Best choice for high-quality, editable, and brand-consistent designs.
 homepage: https://seede.ai
